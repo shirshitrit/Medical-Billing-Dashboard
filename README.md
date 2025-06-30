@@ -22,7 +22,14 @@ All data has been fully anonymized. Doctor names and patient-related information
 - Data cleaning, transformation, and visualization techniques
 
 ## 🖼️ Preview
-*(Add screenshots here if you'd like)*
+# Main Dashboard
+![Main Dashboard](dsy_dashboard1.png)
+
+### Doctors View
+![Doctors View](dsy_dashboard2.png)
+
+### Insurance View
+![Insurance Focus](dsy_dashboard3.png)
 
 ## 📁 Files
 - `internship_dashboard.pbix`- the Power BI file
