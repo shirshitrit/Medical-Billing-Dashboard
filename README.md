@@ -26,10 +26,10 @@ All data has been fully anonymized. Doctor names and patient-related information
 ![Main Dashboard](sdy_dashboard1.png)
 
 ### Doctors View
-![Doctors View](dsy_dashboard2.png)
+![Doctors View](sdy_dashboard2.png)
 
 ### Insurance View
-![Insurance Focus](dsy_dashboard3.png)
+![Insurance Focus](sdy_dashboard3.png)
 
 ## 📁 Files
 - `internship_dashboard.pbix`- the Power BI file
