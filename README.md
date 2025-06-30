@@ -23,7 +23,7 @@ All data has been fully anonymized. Doctor names and patient-related information
 
 ## 🖼️ Preview
 # Main Dashboard
-![Main Dashboard](dsy_dashboard1.png)
+![Main Dashboard](sdy_dashboard1.png)
 
 ### Doctors View
 ![Doctors View](dsy_dashboard2.png)
